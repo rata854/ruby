@@ -1,2 +1,0 @@
-name = "ARATA"
-puts name
